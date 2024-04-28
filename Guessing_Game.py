@@ -1,3 +1,4 @@
+
 import random
 def play_game():
     n=random.randint(1,100)
@@ -44,9 +45,3 @@ print("THank you ")
 
     
     
-
-
-
-
-
-
